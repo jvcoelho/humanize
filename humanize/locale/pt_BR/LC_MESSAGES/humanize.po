@@ -142,11 +142,11 @@ msgstr "sete"
 
 #: humanize/number.py:92
 msgid "eight"
-msgstr "ouito"
+msgstr "oito"
 
 #: humanize/number.py:92
 msgid "nine"
-msgstr "novo"
+msgstr "nove"
 
 #: humanize/time.py:64 humanize/time.py:126
 msgid "a moment"
